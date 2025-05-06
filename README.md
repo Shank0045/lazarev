@@ -2,7 +2,7 @@
 🚀 A high-fidelity front-end clone of the LAZAREV Digital Product Design Agency website — built to showcase modern web animations, responsive layouts, and interactive design using pure HTML, CSS, and JavaScript.
 
 🔗 Live Demo
-📁 
+📁 https://shank0045.github.io/lazarev/
 
 📌 Overview
 This project replicates the award-winning design aesthetic of LAZAREV — blending minimalism, smooth scrolling, and advanced UI/UX patterns. It’s perfect for developers looking to sharpen their front-end skills through real-world design implementation.
@@ -54,9 +54,7 @@ lazarev/
 ├── images/           # Icons, logos, graphics
 ├── videos/           # Background & project demo videos
 └── README.md         # You're reading it!
-🧑‍💻 Author
-Shankar Maurya
-🔗 GitHub Profile
+e
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and open a pull request.
@@ -78,4 +76,4 @@ This project is open-sourced under the MIT License.
 🙌 Acknowledgements
 🎨 Inspired by the official LAZAREV Website
 
-📹 Tutorials by Shreyansh Coding School on YouTube
+
