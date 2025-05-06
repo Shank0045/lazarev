@@ -1,8 +1,12 @@
 🪀 LAZAREV Website Clone
 🚀 A high-fidelity front-end clone of the LAZAREV Digital Product Design Agency website — built to showcase modern web animations, responsive layouts, and interactive design using pure HTML, CSS, and JavaScript.
 
+⚠️ Note: This project is currently optimized for laptops and desktops only. Mobile responsiveness is not yet supported.
+
 🔗 Live Demo
 📁 https://shank0045.github.io/lazarev/
+
+
 
 📌 Overview
 This project replicates the award-winning design aesthetic of LAZAREV — blending minimalism, smooth scrolling, and advanced UI/UX patterns. It’s perfect for developers looking to sharpen their front-end skills through real-world design implementation.
